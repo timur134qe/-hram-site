@@ -1,0 +1,1 @@
+Открой index.html. Все фото находятся в папке images. Сайт можно разместить на GitHub Pages или Cloudflare Pages.
